@@ -62,47 +62,40 @@ Topics include:
 
 ## 💻 Programming Languages
 
-Programming languages allow developers to communicate instructions to computers.
+Programming languages allow developers to communicate instructions to computers. Explore code examples and topic-wise practice solutions in the [**Programming Languages**](<Programming Languages/>) directory.
 
 ### Popular Programming Languages
 
-| Language | Main Purpose |
-|---|---|
-| C | System Programming |
-| C++ | Software and Game Development |
-| Java | Application Development |
-| Python | AI, Automation, and Data Science |
-| JavaScript | Web Development |
-| PHP | Backend Web Development |
-| C# | Desktop and Game Development |
-| SQL | Database Management |
+| Language | Main Purpose | Code Repository |
+|---|---|---|
+| C | System Programming | [Browse C Programs](<Programming Languages/Codes/C/>) |
+| C++ | Software and Game Development | [Browse C++ Programs](<Programming Languages/Codes/Cpp/>) |
+| Java | Application Development | - |
+| Python | AI, Automation, and Data Science | - |
+| JavaScript | Web Development | - |
+| PHP | Backend Web Development | - |
+| C# | Desktop and Game Development | - |
+| SQL | Database Management | - |
 
 ---
 
 ## 📊 Data Structures and Algorithms
 
-Data Structures and Algorithms (DSA) are essential for writing efficient programs and solving computational problems.
+Data Structures and Algorithms (DSA) are essential for writing efficient programs and solving computational problems. Check out the [**Data Structure and Algorithm**](<Data Structure and Algorithm/>) directory for implementations, visualizations, and problem sets.
 
-### Data Structures
+### Data Structures ([Code Repository](<Data Structure and Algorithm/Data Structure/Codes/>))
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Hash Tables
-- Heaps
+- **Arrays & Complexity:** Static/dynamic arrays, prefix sums, asymptotic complexity analysis.
+- **Linked Lists:** Singly and doubly linked lists, reversals, and browser history simulations.
+- **Stacks & Queues:** Array-based, linked-list-based, and STL implementations with problem applications.
+- **Trees & Heaps:** Binary trees, Binary Search Trees (BST), boundary traversal, and priority queues.
 
-### Algorithms
+### Algorithms ([Code Repository](<Data Structure and Algorithm/Algorithm/Codes/>))
 
-- Searching Algorithms
-- Sorting Algorithms
-- Recursion
-- Divide and Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Graph Algorithms
+- **Graph Algorithms:** Adjacency lists/matrices, BFS, DFS, 2D grid traversal, shortest paths, and cycle detection.
+- **Dynamic Programming:** 0-1 Knapsack, memoization, tabulation, and reachability.
+- **Searching & Sorting:** Binary search, selection sort, and custom multi-criteria sorting.
+- **Interactive Visualizations:** Interactive animated DSA guides in [Visualizations.md](<Data Structure and Algorithm/Visualizations.md>).
 
 ---
 
